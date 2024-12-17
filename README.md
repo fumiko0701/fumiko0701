@@ -36,7 +36,7 @@
 🔗 [**Sistema de Gerenciamento de Convidados**](https://github.com/fumiko0701) ✅ **Completo**  
 Solução completa para **logística e controle de convidados** através de QR Codes, facilitando a entrada e monitoramento de eventos.  
 
-🔗 [**Gerador de Escalas Automáticas**](https://github.com/fumiko0701) 🚧 **Em Desenvolvimento**
+🔗 [**Gerador de Escalas Automáticas**](https://github.com/fumiko0701) 🚧 **Em Desenvolvimento**  
 Sistema flexível que permite gerar escalas de trabalho, voluntariado ou produção em qualquer ambiente, com ajustes manuais e exportação em diversos formatos.  
 
 🔗 [**Criador de Bots para Discord**](https://github.com/fumiko0701) ⚙️ **Em Produção**  
