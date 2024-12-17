@@ -1,4 +1,3 @@
-
 <!-- Banner Principal -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Bem-vindo!&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Meus%20projetos%20e%20contribuições.&descAlignY=60" />
 
@@ -40,13 +39,13 @@
 <!-- Projetos em Destaque -->
 ### 🚀 **Projetos em Destaque**  
 
-🔗 [**Gerador de Escalas Automáticas**](https://github.com/fumiko0701)  
-Sistema flexível que permite gerar escalas de trabalho, voluntariado ou produção em qualquer ambiente, com ajustes manuais e exportação em diversos formatos.  
-
-🔗 [**Sistema de Gerenciamento de Convidados**](https://github.com/fumiko0701)  
+🔗 [**Sistema de Gerenciamento de Convidados**](https://github.com/fumiko0701) ✅ **Completo**  
 Solução completa para **logística e controle de convidados** através de QR Codes, facilitando a entrada e monitoramento de eventos.  
 
-🔗 [**Criador de Bots para Discord**](https://github.com/fumiko0701)  
+🔗 [**Gerador de Escalas Automáticas**](https://github.com/fumiko0701) ⚙️ **Em Produção**  
+Sistema flexível que permite gerar escalas de trabalho, voluntariado ou produção em qualquer ambiente, com ajustes manuais e exportação em diversos formatos.  
+
+🔗 [**Criador de Bots para Discord**](https://github.com/fumiko0701) 🚧 **Em Desenvolvimento**  
 Programa que simplifica a criação de bots para Discord com funcionalidades avançadas de maneira prática e rápida.
 
 ---
@@ -64,3 +63,4 @@ Programa que simplifica a criação de bots para Discord com funcionalidades ava
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=150&section=footer"/>
 </p>
+
