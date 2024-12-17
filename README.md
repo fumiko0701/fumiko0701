@@ -12,10 +12,10 @@
 
 <!-- Sobre Mim -->
 ### 🔹 **Sobre Mim**  
-- 💻 Desenvolvedor focado em **back-end** com Kotlin, Python e Java.  
-- 🌱 Atualmente estudando **Kotlin** e aprofundando meus conhecimentos em **IntelliJ IDEA Ultimate**.  
+- 💻 Desenvolvedor focado em **back-end** com Python, Java e Kotlin.  
+- 🌱 Atualmente estudando **Kotlin** e aprofundando meus conhecimentos na **IntelliJ IDEA Ultimate**.  
 - 🛠️ Criador de soluções para automação de processos e gerenciamento.  
-- 🎮 Nos tempos livres, curto jogar **Minecraft** e **Roblox**.  
+- 🎮 Nos tempos livres, curto jogar **Minecraft** e **Roblox** e desafios como a **OBI (Olimpíada Brasileira de Informática)**.  
 
 ---
 
