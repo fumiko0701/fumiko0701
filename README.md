@@ -33,13 +33,13 @@
 
 ### 🚀 **Projetos em Destaque**  
 
-🔗 [**Sistema de Gerenciamento de Convidados**](https://github.com/fumiko0701) ✅ **Completo**  
+🔗 [**Sistema de Gerenciamento de Convidados**](https://github.com/fumiko0701) ✅ **Completo 3/3**  
 Solução completa para **logística e controle de convidados** através de QR Codes, facilitando a entrada e monitoramento de eventos.  
 
-🔗 [**Gerador de Escalas Automáticas**](https://github.com/fumiko0701) 🚧 **Em Desenvolvimento**  
+🔗 [**Gerador de Escalas Automáticas**](https://github.com/fumiko0701) 🚧 **Em Desenvolvimento 1/3**  
 Sistema flexível que permite gerar escalas de trabalho, voluntariado ou produção em qualquer ambiente, com ajustes manuais e exportação em diversos formatos.  
 
-🔗 [**Criador de Bots para Discord**](https://github.com/fumiko0701) ⚙️ **Em Produção**  
+🔗 [**Criador de Bots para Discord**](https://github.com/fumiko0701) ⚙️ **Em Produção 2/3**  
 Programa que simplifica a criação de bots para Discord com funcionalidades avançadas de maneira prática e rápida.
 
 ---
