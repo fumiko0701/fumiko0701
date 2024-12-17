@@ -1,7 +1,5 @@
-<!-- Banner Principal -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Bem-vindo!&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Meus%20projetos%20e%20contribuições.&descAlignY=60" />
 
-<!-- Boas-Vindas -->
 <h1 align="center">Olá! 👋, Eu sou o Fumiko0701</h1>
 <p align="center">
   Desenvolvedor apaixonado por tecnologia, automação e código aberto 🚀
@@ -9,7 +7,6 @@
 
 ---
 
-<!-- Sobre Mim -->
 ### 🔹 **Sobre Mim**  
 - 💻 Desenvolvedor focado em **back-end** com Python, Java e Kotlin.  
 - 🌱 Atualmente estudando **Kotlin** e aprofundando meus conhecimentos na **IntelliJ IDEA Ultimate**.  
@@ -18,7 +15,6 @@
 
 ---
 
-<!-- Tecnologias -->
 ### 🛠️ **Tecnologias e Ferramentas**  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,java,python,javascript,html,css,git,github,sqlite,vscode,idea" alt="tech stack" />
@@ -26,7 +22,6 @@
 
 ---
 
-<!-- Contador de Estatísticas -->
 ### 📊 **Minhas Estatísticas no GitHub**  
 
 <div align="center">
@@ -36,21 +31,19 @@
 
 ---
 
-<!-- Projetos em Destaque -->
 ### 🚀 **Projetos em Destaque**  
 
 🔗 [**Sistema de Gerenciamento de Convidados**](https://github.com/fumiko0701) ✅ **Completo**  
 Solução completa para **logística e controle de convidados** através de QR Codes, facilitando a entrada e monitoramento de eventos.  
 
-🔗 [**Gerador de Escalas Automáticas**](https://github.com/fumiko0701) ⚙️ **Em Produção**  
+🔗 [**Gerador de Escalas Automáticas**](https://github.com/fumiko0701) 🚧 **Em Desenvolvimento** 
 Sistema flexível que permite gerar escalas de trabalho, voluntariado ou produção em qualquer ambiente, com ajustes manuais e exportação em diversos formatos.  
 
-🔗 [**Criador de Bots para Discord**](https://github.com/fumiko0701) 🚧 **Em Desenvolvimento**  
+🔗 [**Criador de Bots para Discord**](https://github.com/fumiko0701) ⚙️ **Em Produção**  
 Programa que simplifica a criação de bots para Discord com funcionalidades avançadas de maneira prática e rápida.
 
 ---
 
-<!-- Contato -->
 ### 📬 **Entre em Contato Comigo**  
 <p align="center">
   <a href="https://github.com/fumiko0701"><img src="https://img.shields.io/badge/-Meu%20GitHub-181717?style=flat&logo=github&logoColor=white"></a>
@@ -59,7 +52,6 @@ Programa que simplifica a criação de bots para Discord com funcionalidades ava
 
 ---
 
-<!-- Footer -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=150&section=footer"/>
 </p>
