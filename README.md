@@ -14,7 +14,7 @@
 - 💻 Desenvolvedor apaixonado por **back-end** e **soluções inovadoras**.  
 - 🌱 Atualmente estou aprendendo **Java**, **Python** e **JavaScript**.  
 - 🎯 Focado em projetos de automação e ferramentas úteis para a comunidade.  
-- 🎮 Gosto de jogar **Albion Online** e desafios como a **OBI (Olimpíada Brasileira de Informática)**.  
+- 🎮 Gosto de jogar **Minecraft** e **Roblox** e desafios como a **OBI (Olimpíada Brasileira de Informática)**.  
 
 ---
 
