@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Bem-vindo!&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Meus%20projetos%20e%20contribuições.&descAlignY=60" />
 
-<h1 align="center">Olá! 👋, Eu sou o Fumiko0701</h1>
+<h1 align="center">Olá! 👋, Me chamo Fumiko</h1>
 <p align="center">
   Desenvolvedor apaixonado por tecnologia, automação e código aberto 🚀
 </p>
