@@ -1,27 +1,28 @@
+
 <!-- Banner Principal -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Bem-vindo!&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Meus%20projetos%20e%20contribuições.&descAlignY=60" />
 
 <!-- Boas-Vindas -->
 <h1 align="center">Olá! 👋, Eu sou o Fumiko0701</h1>
 <p align="center">
-  Desenvolvedor apaixonado por tecnologia e código aberto 🚀
+  Desenvolvedor apaixonado por tecnologia, automação e código aberto 🚀
 </p>
 
 ---
 
 <!-- Sobre Mim -->
 ### 🔹 **Sobre Mim**  
-- 💻 Desenvolvedor apaixonado por **back-end** e **soluções inovadoras**.  
-- 🌱 Atualmente estou aprendendo **Java**, **Python** e **JavaScript**.  
-- 🎯 Focado em projetos de automação e ferramentas úteis para a comunidade.  
-- 🎮 Gosto de jogar **Minecraft** e **Roblox** e desafios como a **OBI (Olimpíada Brasileira de Informática)**.  
+- 💻 Desenvolvedor focado em **back-end** com Kotlin, Python e Java.  
+- 🌱 Atualmente estudando **Kotlin** e aprofundando meus conhecimentos em **IntelliJ IDEA Ultimate**.  
+- 🛠️ Criador de soluções para automação de processos e gerenciamento.  
+- 🎮 Nos tempos livres, curto jogar **Minecraft** e **Roblox**.  
 
 ---
 
 <!-- Tecnologias -->
-### 🛠️ **Tecnologias que eu uso**  
+### 🛠️ **Tecnologias e Ferramentas**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,git,github,sqlite,vscode" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,python,javascript,html,css,git,github,sqlite,vscode,idea" alt="tech stack" />
 </p>
 
 ---
@@ -38,9 +39,15 @@
 
 <!-- Projetos em Destaque -->
 ### 🚀 **Projetos em Destaque**  
-🔗 [**Gerador de Escalas para Igreja**](https://github.com/fumiko0701) - Automatize as escalas do seu grupo com praticidade.  
 
-🔗 [**Sistema de Cálculo em Redstone**](https://github.com/fumiko0701) - Um sistema funcional que soma números usando circuitos de Redstone.  
+🔗 [**Gerador de Escalas Automáticas**](https://github.com/fumiko0701)  
+Sistema flexível que permite gerar escalas de trabalho, voluntariado ou produção em qualquer ambiente, com ajustes manuais e exportação em diversos formatos.  
+
+🔗 [**Sistema de Gerenciamento de Convidados**](https://github.com/fumiko0701)  
+Solução completa para **logística e controle de convidados** através de QR Codes, facilitando a entrada e monitoramento de eventos.  
+
+🔗 [**Criador de Bots para Discord**](https://github.com/fumiko0701)  
+Programa que simplifica a criação de bots para Discord com funcionalidades avançadas de maneira prática e rápida.
 
 ---
 
