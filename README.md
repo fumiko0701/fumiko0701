@@ -47,7 +47,7 @@ Programa que simplifica a criação de bots para Discord com funcionalidades ava
 ### 📬 **Entre em Contato Comigo**  
 <p align="center">
   <a href="https://github.com/fumiko0701"><img src="https://img.shields.io/badge/-Meu%20GitHub-181717?style=flat&logo=github&logoColor=white"></a>
-  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="mailto:zx3rainbow@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
